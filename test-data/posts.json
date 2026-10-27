@@ -1,0 +1,6 @@
+[
+  { "userId": 1, "id": 1, "title": "API Course", "body": "This is a test body" },
+  { "userId": 2, "id": 2, "title": "JavaScript Course", "body": "Learning JavaScript" },
+  { "userId": 3, "id": 3, "title": "Python Course", "body": "Introduction to Python" },
+  { "userId": 4, "id": 4, "title": "Java Course", "body": "Exploring Java" }
+]
